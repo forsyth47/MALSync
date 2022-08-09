@@ -1,5 +1,5 @@
 [![img](https://img.shields.io/github/discussions/forsyth47/MALSync.svg?style=flat-square&amp;logo=github&amp;label=GithubDiscussions&amp;colorB=7289DA)](https://github.com/forsyth47/MALsync/discussions)
-[![img](https://img.shields.io/github/issues/forsyth47/MALSync.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/MALSync/MALSync/issues)
+[![img](https://img.shields.io/github/issues/forsyth47/MALSync.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/forsyth47/MALSync/issues)
 <!--[![CodeFactor](https://www.codefactor.io/repository/github/forsyth47/MALSync/badge)](https://www.codefactor.io/repository/github/MALSync/MALSync)-->
 
 # MAL-Sync [x86]
