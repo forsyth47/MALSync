@@ -1,0 +1,6 @@
+{
+  "search": "https://www.asurascans.com/?s={searchtermPlus}",
+  "urls": {
+    "match": ["*://*.asurascans.com/*"]
+  }
+}
