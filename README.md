@@ -15,7 +15,7 @@ https://github.com/MALSync/MALSync/issues/1093
 https://www.reddit.com/r/MyAnimeList/comments/tm3vbn/malsync_extension_crashes_my_browser/
 
 **[So What did i do?]**
-nothing lol!
+nothing much lol!
 
 I'm not sure but I think due to lotta websites in the source makes the browser crash, so i jus deleted a bunch of websites that I dont use and kept only that i use.
 if anyone wants any website to be added kindly open an issue :p
