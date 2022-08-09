@@ -1,0 +1,43 @@
+{
+  "search": "https://www1.gogoanime.ai/search.html?keyword={searchterm}",
+  "urls": {
+    "match": [
+      "*://*.gogoanime.tv/*",
+      "*://*.gogoanime.io/*",
+      "*://*.gogoanime.in/*",
+      "*://*.gogoanime.se/*",
+      "*://*.gogoanime.sh/*",
+      "*://*.gogoanime.video/*",
+      "*://*.gogoanime.movie/*",
+      "*://*.gogoanime.so/*",
+      "*://*.gogoanime.ai/*",
+      "*://*.gogoanime.vc/*",
+      "*://*.gogoanime.pe/*",
+      "*://*.gogoanime.wiki/*",
+      "*://*.gogoanime.cm/*",
+      "*://*.gogoanime.film/*",
+      "*://*.gogoanime.fi/*",
+      "*://*.gogoanime.gg/*",
+      "*://*.gogoanime.sk/*",
+      "*://*.gogoanime.lu/*",
+      "*://*.gogoanimes.co/*",
+      "*://*.animego.to/*"
+    ],
+    "exclude": [
+      "*gogoanime*.*/",
+      "*gogoanime*.*/*.html*",
+      "*gogoanime*.*/anime-List*",
+      "*gogoanime*.*/anime-list*",
+      "*gogoanime*.*/user*",
+      "*gogoanime*.*/genre/*",
+      "*gogoanime*.*/sub-category/*",
+      "*animego*.*/",
+      "*animego*.*/*.html*",
+      "*animego*.*/anime-List*",
+      "*animego*.*/anime-list*",
+      "*animego*.*/user*",
+      "*animego*.*/genre/*",
+      "*animego*.*/sub-category/*"
+    ]
+  }
+}
