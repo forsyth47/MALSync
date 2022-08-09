@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Mangadex",
+    "domain": "https://www.mangadex.org",
+    "database": "Mangadex",
+    "search": {
+      "anime": null,
+      "manga": "https://mangadex.org/titles?q={searchterm}"
+    }
+  },
+  {
+    "name": "MangaNato",
+    "domain": "https://manganato.com",
+    "database": "MangaNato",
+    "search": {
+      "anime": null,
+      "manga": "https://manganato.com/search/story/{searchterm(_)[noSpecial]}"
+    }
+  },
+  {
+    "name": "Gogoanime",
+    "domain": "https://gogoanime.tv",
+    "database": "Gogoanime",
+    "search": {
+      "anime": "https://www1.gogoanime.ai/search.html?keyword={searchterm}",
+      "manga": null
+    }
+  },
+  {
+    "name": "AniMixPlay",
+    "domain": "https://animixplay.to",
+    "database": "AniMixPlay",
+    "search": {
+      "anime": "https://animixplay.to/list?q={searchterm}",
+      "manga": null
+    }
+  },
+  {
+    "name": "MyAnimeList",
+    "domain": "https://myanimelist.net",
+    "database": null,
+    "search": {
+      "anime": "https://myanimelist.net/anime.php?q={searchterm}",
+      "manga": "https://myanimelist.net/manga.php?q={searchterm}"
+    }
+  },
+  {
+    "name": "MangaFox",
+    "domain": "http://fanfox.net",
+    "database": "MangaFox",
+    "search": {
+      "anime": null,
+      "manga": "http://fanfox.net/search?title={searchtermPlus}"
+    }
+  },
+  {
+    "name": "Readm",
+    "domain": "https://readm.org",
+    "database": null,
+    "search": {
+      "anime": null,
+      "manga": "home"
+    }
+  },
+  {
+    "name": "AsuraScans",
+    "domain": "https://asurascans.com",
+    "database": null,
+    "search": {
+      "anime": null,
+      "manga": "https://www.asurascans.com/?s={searchtermPlus}"
+    }
+  },
+  {
+    "name": "Komga",
+    "domain": "https://komga.org",
+    "database": null,
+    "search": {
+      "anime": null,
+      "manga": "home"
+    }
+  },
+  {
+    "name": "FlameScans",
+    "domain": "https://flamescans.org",
+    "database": null,
+    "search": {
+      "anime": null,
+      "manga": "https://flamescans.org/?s={searchtermPlus}"
+    }
+  },
+  {
+    "name": "Zoro",
+    "domain": "https://zoro.to",
+    "database": "Zoro",
+    "search": {
+      "anime": "https://zoro.to/search?keyword={searchtermPlus}",
+      "manga": null
+    }
+  },
+  {
+    "name": "Kitsune",
+    "domain": "https://beta.kitsune.tv",
+    "database": null,
+    "search": {
+      "anime": "https://kitsune.tv/shows?q={searchterm}",
+      "manga": null
+    }
+  },
+  {
+    "name": "tenshi",
+    "domain": "https://tenshi.moe",
+    "database": "Tenshi",
+    "search": {
+      "anime": "https://tenshi.moe/anime?q={searchtermPlus}",
+      "manga": null
+    }
+  }
+]
