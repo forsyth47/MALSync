@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "outDir": "./src/",
+    "noImplicitAny": false,
+    "noImplicitThis": false,
+    "module": "es6",
+    "moduleResolution": "node",
+    "target": "es6",
+    "lib": ["es5", "es6", "es2015.collection", "es2015.iterable", "dom"],
+    "jsx": "react",
+    "allowJs": true,
+    "sourceMap": true,
+    "strict": true,
+    "useUnknownInCatchVariables": false,
+  },
+  "exclude": [
+    "dist",
+    "**/*.test.ts",
+    "**/*.exclude.ts",
+    "node_modules"
+  ]
+}
